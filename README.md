@@ -1,15 +1,14 @@
-# Angular Github Search
-## By David Rono
+# Github Search
+## By Barbara Reson Mootian
 ## Project Description
 
-Angular Github Search is an appplication that helps users to navigate through to their github account and access all their details from the browser.They can also search for any user as long as they have their github username. All individual's repositories are also displayed and links are provided on each repository names and one can click on them and one will be  redirected to the exact project on the github.
+A user can display GitHub information such as username,profile and list of repositories
 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.4.
 
 # Setup Instructions
 
-  Use the command * git clone https://github.com/DavidKibetRono/Github-Search  to clone this project on your own machine. On your browser navigate to localhost:4200 to run the application.
+  Use the command * git clone https://github.com/barbaramootian/Github-Search  to clone this project on your own machine. On your browser navigate to localhost:4200 to run the application.
 
 
 # Technology used
@@ -19,12 +18,6 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 * JAVASCRIPT
 * JQUERY
 * TYPESCRIPT
-
-# Live link
-
-Click  <a href="https://davidkibetrono.github.io/Github-Search/profile"> Github Search App</a> to view the application.
-
-
 
 ## Development server
 
@@ -51,8 +44,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
  # MIT licence
-
-<p>Copyright (c) 2021 David Rono</p>
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
